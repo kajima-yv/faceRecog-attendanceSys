@@ -1,16 +1,13 @@
 # faceRecog-attendanceSys
 
-This is a college project assignment of Face Recognition based Attendance System
-
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+This is a college assignment project of Face Recognition based Attendance System
 
 ## Getting Started
 
-The folder **Dataset** is contained with files of faces recognized by the app.\n
-The CSV file is where the Attendance Markings are stored.
-**AttendanceSys** is the compiled code where all the systems of recording and storing is.
-**Basics** is the basics code of the system tested.
+The folder **Dataset** is contained with files of faces recognized by the app.  
+The CSV file is where the Attendance Markings are stored.  
+**AttendanceSys** is the compiled code where all the systems of recording and storing is.  
+**Basics** is the basics code of the system tested.  
 
 ### Prerequisites
 
@@ -24,11 +21,11 @@ Requirements for the software and other tools to build, test and push
 
 ## Running the tests
 
-When all the prerequisites have been installed you can store the Face you want to compare at [Dataset](https://github.com/kajima-yv/faceRecog-attendanceSys/tree/main/Dataset).
-And then you can run the file **AttendanceSys**, where the system would call a webcam window
-and record all the faces in frame to compare with the saved/stored face in the folder **Dataset**.
-
+When all the prerequisites have been installed you can store the Face you want to compare at [Dataset](https://github.com/kajima-yv/faceRecog-attendanceSys/tree/main/Dataset).  
+And then you can run the file **AttendanceSys**, where the system would call a webcam window  
+and record all the faces in frame to compare with the saved/stored face in the folder **Dataset**.  
 
 ## Authors
 
   - **Vay Kajima** - [kajima-yv](https://github.com/kajima-yv)
+  
