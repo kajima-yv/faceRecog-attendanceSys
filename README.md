@@ -4,7 +4,7 @@ This is a college assignment project of Face Recognition based Attendance System
 
 ## Getting Started
 
-The folder **Dataset** is contained with files of faces recognized by the app.  
+The folder * **Dataset** * is contained with files of faces recognized by the app.  
 The CSV file is where the Attendance Markings are stored.  
 **AttendanceSys** is the compiled code where all the systems of recording and storing is.  
 **Basics** is the basics code of the system tested.  
