@@ -7,7 +7,7 @@ Initially appeared on
 
 ## Getting Started
 
-The folder **Dataset** is contained with files of faces recognized by the app.
+The folder **Dataset** is contained with files of faces recognized by the app.\n
 The CSV file is where the Attendance Markings are stored.
 **AttendanceSys** is the compiled code where all the systems of recording and storing is.
 **Basics** is the basics code of the system tested.
@@ -15,7 +15,7 @@ The CSV file is where the Attendance Markings are stored.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Python 3.+]([https://www.example.com](https://www.python.org/downloads/))
+- [Python 3.+](https://www.python.org/downloads/)
 - [NumPy](https://numpy.org/install/)
 - [OpenCV](https://docs.opencv.org/4.x/d5/de5/tutorial_py_setup_in_windows.html)
 - [CMake](https://cmake.org/download/)
