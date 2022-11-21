@@ -1,6 +1,6 @@
 # faceRecog-attendanceSys
 
-This is a college assignment project of Face Recognition based Attendance System
+This is a college project of Face Recognition based Attendance System
 
 ## Getting Started
 
